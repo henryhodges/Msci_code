@@ -117,6 +117,16 @@ For a typical workflow:
 - Derived forecasting metrics such as predicted minimum Dst, integrated injection proxies, and hybrid parameter-substitution results.
 - Optional saved figure files in PNG or PDF format for use in reports, presentations, or further analysis.
 
+### Example outputs:
+
+![STEREOA Cross Correlation](Example%20Outputs/STEREOA_20230928_xcorr.jpg)
+
+![V Shock](Example%20Outputs/V%20shock.jpg)
+
+![DST 2x2 Parity](Example%20Outputs/dst_2x2_parity.jpg)
+
+![StereoA Heliocentric](Example%20Outputs/stereoA_20230518_heliocentric.jpg)
+
 ## Limitations
 First, the analysis is based on a proxy dataset constructed from archival spacecraft observations, rather than direct measurements from the HENON mission itself. The spacecraft used in this study were selected because their trajectories passed through regions comparable to the simulated HENON orbit, allowing a useful first-order approximation of what a future HENON spacecraft might observe. However, these proxy measurements are not identical to true mission data and therefore cannot fully capture the exact geometry, instrumentation, or operational cadence of the future HENON constellation.
 
