@@ -117,6 +117,10 @@ For a typical workflow:
 - Derived forecasting metrics such as predicted minimum Dst, integrated injection proxies, and hybrid parameter-substitution results.
 - Optional saved figure files in PNG or PDF format for use in reports, presentations, or further analysis.
 
+Example Outputs:
+
+![Alt text](Example Outputs/V shock.png)
+
 ## Limitations
 First, the analysis is based on a proxy dataset constructed from archival spacecraft observations, rather than direct measurements from the HENON mission itself. The spacecraft used in this study were selected because their trajectories passed through regions comparable to the simulated HENON orbit, allowing a useful first-order approximation of what a future HENON spacecraft might observe. However, these proxy measurements are not identical to true mission data and therefore cannot fully capture the exact geometry, instrumentation, or operational cadence of the future HENON constellation.
 
