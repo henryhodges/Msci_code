@@ -1,5 +1,5 @@
 """
-primary.py
+main.py
 ==========
 Main analysis pipeline for the Hénon DRO spacecraft crossover study.
 
